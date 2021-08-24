@@ -6,5 +6,15 @@ body {
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
 }
+#seccion-contacto {
+	
+	background-color: #1B2A4E;
+min-height: 500px;
+}
+footer{
+min-height: 90px;
+background-color: #1B2A4E;
+color:#FFF;
+}
 
 
