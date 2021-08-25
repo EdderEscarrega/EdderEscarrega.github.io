@@ -10,11 +10,28 @@ body {
 	
 	background-color: #1B2A4E;
 min-height: 500px;
+position: relative;
+}
+#contenedor-formulario{
+position:absolute;
+top:30%;
+left:50%;
+transform:translate(-50%,-50%);
+background-color:#fbfafa;
+border-radius::5px;
+}
+#titulo-formulario{
+	color:#3f3f3f;
 }
 footer{
 min-height: 90px;
 background-color: #1B2A4E;
 color:#FFF;
+}
+#iconoc i{
+color>#f3f3f3;
+padding: 0 8px;
+font-size>26px;
 }
 
 
